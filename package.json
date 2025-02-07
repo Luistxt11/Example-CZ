@@ -1,0 +1,15 @@
+{
+  "name": "cloudzilla-app",
+  "version": "1.0.0",
+  "description": "Aplicación mínima para desplegar en Cloudzilla",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0 <=22.9.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
